@@ -15,4 +15,3 @@ export interface IError {
 }
 
 export type serverResponse = IUser[] | IUser | IError | null;
- 
